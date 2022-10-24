@@ -1,0 +1,11 @@
+{
+  "setupTasks": [],
+
+  "tasks": {
+    "start app": {
+      "name": "Start app",
+      "command": "node index.js",
+      "runAtStart": true
+    }
+  }
+}
